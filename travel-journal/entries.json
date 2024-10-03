@@ -10,7 +10,7 @@
         "continent": "Europe",
         "country": "Switzerland",
         "location": "Lucerne",
-        "type": "city"
+        "type": "City"
       }
     },
     {
@@ -23,7 +23,7 @@
         "continent": "Europe",
         "country": "Iceland",
         "location": "Reykjavik",
-        "type": "mountain"
+        "type": "Mountain"
       }
     },
     {
@@ -36,7 +36,7 @@
         "continent": "Asia",
         "country": "Japan",
         "location": "Okinawa",
-        "type": "culture/heritage"
+        "type": "Attraction/Amusement"
       }
     },
     {
@@ -49,7 +49,7 @@
         "continent": "Europe",
         "country": "Sweden",
         "location": "Gotland",
-        "type": "countryside"
+        "type": "Countryside"
       }
     },
     {
@@ -62,7 +62,7 @@
         "continent": "Asia",
         "country": "Japan",
         "location": "Okinawa",
-        "type": "nature"
+        "type": "Nature"
       }
     },
     {
@@ -75,7 +75,7 @@
         "continent": "Europe",
         "country": "Czechia",
         "location": "Prague",
-        "type": "city"
+        "type": "City"
       }
     },
     {
@@ -88,7 +88,7 @@
         "continent": "Oceania",
         "country": "New Zealand",
         "location": "Dunedin",
-        "type": "countryside"
+        "type": "Countryside"
       }
     },
     {
@@ -101,7 +101,7 @@
         "continent": "South America",
         "country": "Chile",
         "location": "Concón",
-        "type": "sea/ocean"
+        "type": "Sea/Ocean"
       }
     },
     {
@@ -114,7 +114,7 @@
         "continent": "Europe",
         "country": "Italy",
         "location": "Sardinia",
-        "type": "beach/tropical"
+        "type": "Beach/Tropical"
       }
     }
   ]
