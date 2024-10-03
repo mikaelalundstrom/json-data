@@ -1,11 +1,12 @@
 {
   "locationTypes": [
-    "nature",
-    "beach/tropical",
-    "culture/heritage",
-    "mountain",
-    "city",
-    "countryside",
-    "sea/ocean"
+    "Attraction/Amusement",
+    "Beach/Tropical",
+    "Countryside",
+    "City",
+    "Culture/Heritage",
+    "Mountain",
+    "Nature",
+    "Sea/Ocean"
   ]
 }
